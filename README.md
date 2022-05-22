@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abir045/frontend-mentor-manage-landing-react-tailwind)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-manage-landing-react-tailwind.vercel.app/#)
+- Solution URL: [solution](https://github.com/abir045/frontend-mentor-manage-landing-react-tailwind)
+- Live Site URL: [live](https://frontend-mentor-manage-landing-react-tailwind.vercel.app/#)
 
 ## My process
 
