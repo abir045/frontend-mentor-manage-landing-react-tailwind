@@ -32,6 +32,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/fullpage.png)
+![](./images/fullpage-mobile.png)
 
 ### Links
 
